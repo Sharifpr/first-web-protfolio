@@ -1,0 +1,42 @@
+body{margin: 0;}
+h1{
+    font-family: 'Anton', sans-serif;
+    color: #9b59b6;
+}
+p{
+    font-family: 'Anton', sans-serif;
+font-family: 'Crimson Text', serif;
+}
+.top-hadder{
+    display: flex;
+    background-image: url(./pic/top-banner.png);
+    background-repeat: no-repeat;
+    
+    
+}
+.link{
+    color: rgb(2, 2, 2);
+    text-decoration: none;
+    border: 20px 35px;
+    background: linear-gradient(to bottom, #33ccff,#6666ff);
+    padding: 8px;
+    border-radius: 10%;
+    font-size: 30px;
+}
+.span-color{
+    color: #f1c40f;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+    font-size: 20px;
+}
+.half-width img{
+    width: 80%;
+}
+.dream-big{
+    display: flex;
+    background-image: url(./pic/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
